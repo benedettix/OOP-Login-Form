@@ -1,0 +1,11 @@
+form {
+    width: 100%;
+}
+
+ul li {
+    color: red;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
